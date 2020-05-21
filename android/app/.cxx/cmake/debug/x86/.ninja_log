@@ -1,0 +1,4 @@
+# ninja log v5
+0	232	0	CMakeFiles/lmdb.dir/midl.c.o	1a83d0a8a558508b
+0	530	0	CMakeFiles/lmdb.dir/mdb.c.o	b94d0e5337dfd557
+530	584	0	/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/build/app/intermediates/cmake/debug/obj/x86/liblmdb.so	1220c59655bc501

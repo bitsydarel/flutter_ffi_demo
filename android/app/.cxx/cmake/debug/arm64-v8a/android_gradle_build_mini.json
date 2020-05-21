@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/lmdb/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/darelbitsy/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cmake/debug/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "lmdb-Debug-arm64-v8a": {
+      "artifactName": "lmdb",
+      "buildCommand": "/Users/darelbitsy/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cmake/debug/arm64-v8a --target lmdb",
+      "abi": "arm64-v8a",
+      "output": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/build/app/intermediates/cmake/debug/obj/arm64-v8a/liblmdb.so"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android",
+      "sdkFolder": "/Users/darelbitsy/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "ideBuildTargetAbi": "x86",
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/build/app/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app",
+      "makeFile": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/lmdb/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/.cxx",
+      "cxxFolder": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx",
+      "ndkFolder": "/Users/darelbitsy/Library/Android/sdk/ndk/21.1.6352462",
+      "ndkVersion": "21.1.6352462",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/build/app/intermediates/cmake/debug/lib",
+    "objFolder": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/build/app/intermediates/cmake/debug/obj",
+    "jsonFolder": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "X86"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cmake/debug/x86",
+  "jsonFile": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cmake/debug/x86/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cxx/debug/x86",
+  "objFolder": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/build/app/intermediates/cmake/debug/obj/x86",
+  "buildCommandFile": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cmake/debug/x86/build_command.txt",
+  "buildOutputFile": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cmake/debug/x86/build_output.txt",
+  "modelOutputFile": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cmake/debug/x86/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cxx/debug/x86/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cxx/debug/x86/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cxx/debug/x86/build_generation_state.json",
+    "cacheKeyFile": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cxx/debug/x86/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cxx/debug/x86/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cxx/debug/x86/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cxx/debug/x86/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cmake/debug/x86/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cmake/debug/x86/compile_commands.json"
+}

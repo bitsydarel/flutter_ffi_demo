@@ -1,0 +1,14 @@
+Executable : /Users/darelbitsy/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/lmdb
+-B/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/android/app/.cxx/cmake/debug/arm64-v8a
+-DANDROID_ABI=arm64-v8a
+-DANDROID_PLATFORM=android-16
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/darelbitsy/IdeaProjects/flutter_ffi_demo/build/app/intermediates/cmake/debug/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=/Users/darelbitsy/Library/Android/sdk/ndk/21.1.6352462
+-DCMAKE_TOOLCHAIN_FILE=/Users/darelbitsy/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/darelbitsy/Library/Android/sdk/cmake/3.6.4111459/bin/ninja
+-GAndroid Gradle - Ninja
+jvmArgs : 
+
